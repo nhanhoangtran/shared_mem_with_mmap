@@ -1,6 +1,5 @@
 # shared_mem_with_mmap_related_processes
-git remote add origin https://github.com/nhanhoangtran/shared_mem_with_mmap.git
-
+git remote add origin https://github.com/nhanhoangtran/shared_mem_with_mmap_related_processes.git
 git push -u origin master
 
 
